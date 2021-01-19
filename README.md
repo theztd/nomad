@@ -1,2 +1,4 @@
 # nomad
-The hashicorp nomad docker image
+
+
+nomad agent -config nomad-srv.hcl
