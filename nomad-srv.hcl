@@ -40,7 +40,7 @@ client {
 plugin "docker" {
   config {
     auth {
-      config = "~/.docker/config.json"
+      config = "/home/marek/.docker/config.json"
     }
 
     allow_privileged = true
